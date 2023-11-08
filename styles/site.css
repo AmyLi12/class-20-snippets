@@ -286,7 +286,7 @@ blockquote {
 }
 
 #gallery-thumbnails button {
-  /* cursor: pointer; */
+  cursor: pointer;
 
   width: 100%;
   height: auto;
